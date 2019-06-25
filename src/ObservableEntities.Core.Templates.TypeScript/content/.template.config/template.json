@@ -1,0 +1,8 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Tony Sneed",
+  "classifications": [ "Observable Entities", "Templates", "TypeScript" ],
+  "identity": "ObservableEntities.Core.Templates.TypeScript",
+  "name": "Observable Entities for EF Core TypeScript Handlebars Templates",
+  "shortName": "oe-templates-typescript"
+}

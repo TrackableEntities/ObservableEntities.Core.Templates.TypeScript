@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>ObservableEntities.Core.Templates.TypeScript</id>
+        <version>1.0.0</version>
+        <title>Observable Entities for EF Core Handlebars TypeScript Templates</title>
+        <description>Customizable Handlebars TypeScript templates for Observable Entities for EF Core entities.</description>
+        <authors>Tony Sneed</authors>
+        <owners>Tony Sneed</owners>
+        <license type="expression">MIT</license>
+        <projectUrl>https://github.com/TrackableEntities/ObservableEntities.Core.Templates.TypeScript</projectUrl>
+        <iconUrl>http://trackableentities.github.io/images/tracking.png</iconUrl>
+        <language>en-US</language>
+        <releaseNotes>See https://github.com/TrackableEntities/ObservableEntities.Core.Templates.TypeScript/releases/tag/v1.0.0</releaseNotes>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>entity-framework-core observable-entities handlebars templates typescript</tags>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+    <files>
+      <file src="content/**" target="" />
+    </files>
+</package>
